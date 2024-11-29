@@ -20,9 +20,8 @@ __global__ void computing_function(double* u_new, const double* u, const double*
     
     if (i > 0 && i < N-1 && j > 0 && j < N-1 && k > 0 && k < N-1) {
         int idx = i + j * N + k * N * N;
-        int slice_size = N * N;
         
-        u_new[idx] = (1.0/6.0) * (u[idx-1] + u[idx+1] + u[idx-N] + u[idx+N] +u[idx-slice_size] + u[idx+slice_size] -d * d * f[idx]);
+        u_new[idx] = (1.0/6.0) * (u[idx-1] + u[idx+1] + u[idx-N] + u[idx+N] +u[idx-N*N] + u[idx+N*N] -d * d * f[idx]);
     }
 }
 
