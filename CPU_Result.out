@@ -1,0 +1,51 @@
+Iteration 0, Error: 1.686367e-01
+Iteration 100, Error: 3.099541e-03
+Iteration 200, Error: 1.649594e-03
+Iteration 300, Error: 1.091360e-03
+Iteration 400, Error: 8.953636e-04
+Iteration 500, Error: 7.336289e-04
+Iteration 600, Error: 5.999669e-04
+Iteration 700, Error: 4.897976e-04
+Iteration 800, Error: 3.994531e-04
+Iteration 900, Error: 3.257573e-04
+Iteration 1000, Error: 2.658945e-04
+Iteration 1100, Error: 2.173975e-04
+Iteration 1200, Error: 1.781533e-04
+Iteration 1300, Error: 1.463914e-04
+Iteration 1400, Error: 1.206535e-04
+Iteration 1500, Error: 9.975467e-05
+Iteration 1600, Error: 8.274043e-05
+Iteration 1700, Error: 6.884648e-05
+Iteration 1800, Error: 5.746296e-05
+Iteration 1900, Error: 4.810399e-05
+Iteration 2000, Error: 4.038244e-05
+Iteration 2100, Error: 3.398961e-05
+Iteration 2200, Error: 2.867881e-05
+Iteration 2300, Error: 2.425243e-05
+Iteration 2400, Error: 2.055166e-05
+Iteration 2500, Error: 1.744845e-05
+Iteration 2600, Error: 1.483915e-05
+Iteration 2700, Error: 1.263956e-05
+Iteration 2800, Error: 1.078098e-05
+Iteration 2900, Error: 9.207181e-06
+Iteration 3000, Error: 7.871901e-06
+Iteration 3100, Error: 6.736977e-06
+Iteration 3200, Error: 5.770796e-06
+Iteration 3300, Error: 4.947078e-06
+Iteration 3400, Error: 4.243905e-06
+Iteration 3500, Error: 3.642937e-06
+Iteration 3600, Error: 3.128785e-06
+Iteration 3700, Error: 2.688502e-06
+Iteration 3800, Error: 2.311165e-06
+Iteration 3900, Error: 1.987538e-06
+Iteration 4000, Error: 1.709796e-06
+Iteration 4100, Error: 1.471298e-06
+Iteration 4200, Error: 1.266394e-06
+Iteration 4300, Error: 1.090274e-06
+
+Results:
+Grid size: 101 x 101 x 101
+Total iterations: 4359
+Computation time: 46.597978 seconds
+Solution at (0.001, 0.001, 0.001): numerical = 0.003935, exact = 0.000039
+All Steps completed.
